@@ -1,2 +1,2 @@
 # projekt
-[View](https://github.com/deesdav/projekt/)
+[View](https://deesdav.github.io/projekt/)
